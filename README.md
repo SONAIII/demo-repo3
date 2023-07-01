@@ -1,5 +1,5 @@
-###HEADER
-#Commands
+###HEADER###
+#Commands#
 pwd - prints the current working directory
 cd - changes the directory
 cp - copies the file/files to the specified folder  
