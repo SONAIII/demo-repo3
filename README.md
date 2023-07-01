@@ -39,3 +39,5 @@ tracked - Git tracks the file, but changes aren't staged for commit
 staged - ready for commit
 
 modified - changes aren't staged for commit
+
+new feat
